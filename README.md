@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning MERN
 - 📫 prabhakarsingh8722@gmail.com
 - 😄 Pronouns: He/Him
--  Currently pursuing BCA 
+-  Pursuing BCA from School of Management Sciences 
 
 
 <!---
