@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @prabhakarsingh2019
-- 🌱 I’m currently learning MERN
 - 📫 prabhakarsingh8722@gmail.com
-- 😄 Pronouns: He/Him
--  Pursuing BCA from School of Management Sciences 
+- 🎓 Completed Bachelor of Computer Applications (BCA)
+- 💻 Interested in Software Development and Web Technologies
+- 🌱 Currently learning advanced programming and modern frameworks
+- 🚀 Passionate about building useful and scalable application
 
 
 <!---
